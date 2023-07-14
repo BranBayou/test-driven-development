@@ -103,7 +103,7 @@ You can deploy this project using:
 
 ## Authors <a name="authors"></a>
 
-￼👤 **Berhanu Baye**
+👤 **Berhanu Baye**
 - GitHub: [@BranBayou](https://github.com/BranBayou)
 - Twitter: [@bran-baye](https://twitter.com/bran_baye)
 - LinkedIn: [Berhanu Baye](https://www.linkedin.com/in/bran-baye)
