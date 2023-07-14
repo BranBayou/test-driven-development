@@ -25,11 +25,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# ￼ [test-driven-development project] <a name="about-project"></a>
+# [test-driven-development project] <a name="about-project"></a>
 
 **[test-driven-development project]** In this project we implemented a class with some methods, but we have done it by doing test-driven development (TDD). The idea is to write tests first and then the code. 
 
-## ￼ Built With <a name="built-with"></a>
+## Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -52,7 +52,7 @@
 
 <!-- GETTING STARTED -->
 
-## ￼ Getting Started <a name="getting-started"></a>
+## Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
 
@@ -101,7 +101,7 @@ You can deploy this project using:
 
 <!-- AUTHORS -->
 
-## ￼ Authors <a name="authors"></a>
+## Authors <a name="authors"></a>
 
 ￼👤 **Berhanu Baye**
 - GitHub: [@BranBayou](https://github.com/BranBayou)
@@ -118,7 +118,7 @@ You can deploy this project using:
 
 <!-- FUTURE FEATURES -->
 
-## ￼ Future Features <a name="future-features"></a>
+## Future Features <a name="future-features"></a>
 
 - [ ] **[Decode different codes]**
 
@@ -126,7 +126,7 @@ You can deploy this project using:
 
 <!-- CONTRIBUTING -->
 
-## ￼ Contributing <a name="contributing"></a>
+## Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
@@ -136,7 +136,7 @@ Feel free to check the [issues page](https://github.com/BranBayou/test-driven-de
 
 <!-- SUPPORT -->
 
-## ￼ Show your support <a name="support"></a>
+## Show your support <a name="support"></a>
 
 If you like this project please show support by staring ￼.
 
@@ -144,7 +144,7 @@ If you like this project please show support by staring ￼.
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## ￼ Acknowledgments <a name="acknowledgements"></a>
+## Acknowledgments <a name="acknowledgements"></a>
 
 * We would like to thank our Microverse team and our coding partners for their support and guidance.
 
@@ -152,7 +152,7 @@ If you like this project please show support by staring ￼.
 
 <!-- LICENSE -->
 
-## ￼ License <a name="license"></a>
+## License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
