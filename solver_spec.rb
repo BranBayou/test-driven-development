@@ -45,5 +45,11 @@ RSpec.describe Solver do
       solver = Solver.new
       expect(solver.fizzbuzz(7)).to eq('7')
     end
+    def fizzbuzz(n)
+    return 'fizzbuzz' if (n % 3).zero? && (n % 5).zero?
+    return 'fizz' if (n % 3).zero?
+    return 'buzz' if (n % 5).zero?
+      n.to_s
+    end
   end
 end
