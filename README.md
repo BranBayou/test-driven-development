@@ -1,4 +1,4 @@
-# OOP school library
+# test-driven-development project
 
 <a name="readme-top"></a>
 
@@ -25,10 +25,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# ￼ [OOP school library] <a name="about-project"></a>
+# ￼ [test-driven-development project] <a name="about-project"></a>
 
-**[OOP school library]** is like librarian of OOP for a University, and it is a tool to record what books are in the library and who borrows them. The app that I will create will allow you to:
-  
+**[test-driven-development project]** In this project we implemented a class with some methods, but we have done it by doing test-driven development (TDD). The idea is to write tests first and then the code. 
 
 ## ￼ Built With <a name="built-with"></a>
 
@@ -67,15 +66,15 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-- cd `oop-class-library`
-- `git clone git@github.com:BranBayou/oop-class-library.git`
+- cd `test-driven-development`
+- `git@github.com:BranBayou/test-driven-development.git`
 
 
 ### Install
 
 Install this project with:
 
-- cd oop-class-library
+- cd test-driven-development
 - bundle install
 
 ### Usage
@@ -89,6 +88,7 @@ To run the project execute the following command:
 To run tests, run the following command:
 
 - `rubocop`
+- `rspec .`
 
 
 ### Deployment
@@ -130,7 +130,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/BranBayou/oop-class-library/issues).
+Feel free to check the [issues page](https://github.com/BranBayou/test-driven-development/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

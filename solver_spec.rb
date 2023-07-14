@@ -1,3 +1,4 @@
+require_relative 'solver'
 require 'rspec'
 
 RSpec.describe Solver do

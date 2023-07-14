@@ -1,20 +1,21 @@
 class Solver
-  def factorial(n)
-    raise ArgumentError, 'Argument must be a positive number' if n < 0
-    return 1 if n.zero?
-     result = 1
-    (1..n).each do |i|
-      result *= i
-    end
+  def factorial(int)
+    raise ArgumentError, 'Factorial is not defined for negative numbers' if int.negative?
+
+    result = 1
+    (1..int).each { |num| result *= num }
     result
   end
-  def reverse(str)
-   str.reverse
+
+  def reverse(string)
+    string.reverse
   end
-  def fizzbuzz(n)
-    return 'fizzbuzz' if (n % 3).zero? && (n % 5).zero?
-    return 'fizz' if (n % 3).zero?
-    return 'buzz' if (n % 5).zero?
-      n.to_s
-    end
+
+  def fizzbuzz(number)
+    return 'fizzbuzz' if (number % 3).zero? && (number % 5).zero?
+    return 'fizz' if (number % 3).zero?
+    return 'buzz' if (number % 5).zero?
+
+    number.to_s
+  end
 end
